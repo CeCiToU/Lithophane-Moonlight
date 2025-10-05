@@ -10,7 +10,7 @@ Bring the moon to your room! 🌕✨
   - **Auto Shutoff**: Fades out smoothly after 3 hours of operation.  
   - **Manual Mode**: Stays on until powered off via an external switch.
 + **Customizable Colors**: Choose from a range of colors or flickering fire effect.  
-+ **Single Potentiometer Control**: Adjust brightness and select lighting mode effortlessly.  
++ **Simple Potentiometer Control**: Adjust brightness and select lighting mode effortlessly.  
 + **Lithophane Art**: Beautiful 3D-printed moon texture creates realistic moonlight ambiance.
 
 ## Get Yours
