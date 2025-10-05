@@ -14,4 +14,4 @@ Bring the moon to your room! 🌕✨
 + **Lithophane Art**: Beautiful 3D-printed moon texture creates realistic moonlight ambiance.
 
 ## Get Yours
-[✨ Buy one on Instagram](https://www.instagram.com/pingulinx_/)
+[✨ Buy one](http://r.notohost.com/pingulinx)
